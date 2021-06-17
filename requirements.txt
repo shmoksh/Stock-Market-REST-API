@@ -1,0 +1,5 @@
+Django==3.1.7
+requests==2.25.1
+boto3==1.17.45
+pandas==1.2.3
+plotly==4.14.3
